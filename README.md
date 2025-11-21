@@ -1,6 +1,8 @@
 # Alias Auto Heading
 This plugin for Obsidian automatically syncs headings from your note's content into the aliases frontmatter property.
 
+<img width="2177" height="1013" alt="Screenshot 2025-11-21 202237" src="https://github.com/user-attachments/assets/05b626c7-a2ac-4733-b5b1-5998ace2f65b" />
+
 ## Key Features:
 * Preserves User Aliases: It respects aliases you've manually added. It only manages the aliases it generates from headings.
 * Auto-Sync: Updates automatically when you open a file and when a file is modified (e.g., saved or auto-saved when switching notes/closing the app).
