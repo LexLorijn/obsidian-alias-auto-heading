@@ -6,11 +6,12 @@ This plugin for Obsidian automatically syncs headings from your note's content i
 ## Key Features:
 * Preserves User Aliases: It respects aliases you've manually added. It only manages the aliases it generates from headings.
 * Auto-Sync: Updates automatically when you open a file and when a file is modified (e.g., saved or auto-saved when switching notes/closing the app).
-* Configurable: Choose which heading levels (H1-H6) to track.
+* Configurable: Choose which heading levels (H1-H6) to track in settings.
 * Smart Updating: Removes old heading aliases if the heading is changed or deleted in the text.
+* Accesible: Easily usable ribbon quick settings menu.
 
 ## Usage
-* Manual Sync: - Click the "List Tree" icon in the ribbon.
+* Manual Sync: - Click the "List Tree" icon in the ribbon, here you can change various settings and sync heading aliasses. Right clicking a file also shows the option to update heading aliasses.
 * Or use the Command Palette: Sync alias property from headings.
 * Auto Sync: The plugin automatically syncs when you open a note or save (including auto-save when switching panes/closing).
 Additionally, you can enable "Sync on Enter key" in settings to update aliases automatically as you type.
