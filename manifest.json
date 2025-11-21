@@ -1,0 +1,10 @@
+{
+    "id": "include-heading-as-alias",
+    "name": "Alias Auto Heading",
+    "version": "1.1.0",
+    "minAppVersion": "1.4.0",
+    "description": "his plugin automatically syncs headings as aliases in your note's frontmatter. User-created aliases are preserved, while auto-generated aliases from headings are updated automatically.",
+    "author": "LEX",
+    "authorUrl": "https://github.com/LexLorijn",
+    "isDesktopOnly": false
+}

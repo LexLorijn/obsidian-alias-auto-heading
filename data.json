@@ -1,0 +1,7 @@
+{
+  "headingsToTrack": "1-5",
+  "enableLogging": true,
+  "syncOnEnter": true,
+  "syncOnFileOpen": true,
+  "autoAliasLogArray": []
+}
